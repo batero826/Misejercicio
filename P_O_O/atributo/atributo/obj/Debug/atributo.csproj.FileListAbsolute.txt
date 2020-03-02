@@ -1,0 +1,5 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\P_O_O\atributo\atributo\bin\Debug\atributo.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\P_O_O\atributo\atributo\bin\Debug\atributo.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\P_O_O\atributo\atributo\bin\Debug\atributo.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\P_O_O\atributo\atributo\obj\Debug\atributo.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\P_O_O\atributo\atributo\obj\Debug\atributo.pdb
