@@ -13,9 +13,9 @@ class program
         Console.WriteLine("como estan los amigos");
         Console.WriteLine("que cambios hay por alla");
         Console.WriteLine("los intructores nos explican muy bien todos los temas de programacion");
+        console .Writeline("esta es una prueba del 2022")
         Console.ReadLine();
     
-
     }
 }
                         
