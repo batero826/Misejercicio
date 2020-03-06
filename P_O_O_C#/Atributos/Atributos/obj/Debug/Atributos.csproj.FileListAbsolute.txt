@@ -1,0 +1,15 @@
+E:\1083911405\Atributos\Atributos\bin\Debug\Atributos.exe.config
+E:\1083911405\Atributos\Atributos\bin\Debug\Atributos.exe
+E:\1083911405\Atributos\Atributos\bin\Debug\Atributos.pdb
+E:\1083911405\Atributos\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+E:\1083911405\Atributos\Atributos\obj\Debug\Atributos.exe
+E:\1083911405\Atributos\Atributos\obj\Debug\Atributos.pdb
+D:\Atributos\Atributos\bin\Debug\Atributos.exe.config
+D:\Atributos\Atributos\obj\Debug\Atributos.exe
+D:\Atributos\Atributos\obj\Debug\Atributos.pdb
+D:\Rosario_ADSI_2020\InstructorJesusDavidCalderon\Actividades\Atributos\Atributos\bin\Debug\Atributos.exe.config
+D:\Rosario_ADSI_2020\InstructorJesusDavidCalderon\Actividades\Atributos\Atributos\obj\Debug\Atributos.exe
+D:\Rosario_ADSI_2020\InstructorJesusDavidCalderon\Actividades\Atributos\Atributos\obj\Debug\Atributos.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Atributos\Atributos\bin\Debug\Atributos.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Atributos\Atributos\obj\Debug\Atributos.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Atributos\Atributos\obj\Debug\Atributos.pdb

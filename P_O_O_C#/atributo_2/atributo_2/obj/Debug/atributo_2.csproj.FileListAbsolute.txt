@@ -1,0 +1,6 @@
+D:\sena\2020\jesusdavid\ejerciciodec#\P_O_O\atributo_2\atributo_2\bin\Debug\atributo_2.exe.config
+D:\sena\2020\jesusdavid\ejerciciodec#\P_O_O\atributo_2\atributo_2\bin\Debug\atributo_2.exe
+D:\sena\2020\jesusdavid\ejerciciodec#\P_O_O\atributo_2\atributo_2\bin\Debug\atributo_2.pdb
+D:\sena\2020\jesusdavid\ejerciciodec#\P_O_O\atributo_2\atributo_2\obj\Debug\atributo_2.csprojResolveAssemblyReference.cache
+D:\sena\2020\jesusdavid\ejerciciodec#\P_O_O\atributo_2\atributo_2\obj\Debug\atributo_2.exe
+D:\sena\2020\jesusdavid\ejerciciodec#\P_O_O\atributo_2\atributo_2\obj\Debug\atributo_2.pdb
